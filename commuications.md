@@ -17,4 +17,4 @@ There are two pins are avaiable.
 #### [2] RX (Pin no 2).
 TX and RX pins we need to display our result .
 
-* Error detection (UART ) capability
+# * Error detection (UART ) capability
