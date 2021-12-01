@@ -13,7 +13,6 @@ The requirements for the program to run or for the code to be in effect are basi
 
 # Features,Hardware and Software:-
 
-![App Screenshot] (C:\Users\patil\OneDrive\Documents\ANKITA PATIL\LLTS)
 
 ## a) HARDWARE :-
 #### 1] SimulIDE:
