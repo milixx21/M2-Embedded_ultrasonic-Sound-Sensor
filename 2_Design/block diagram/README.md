@@ -1,2 +1,2 @@
 # Block Diagram
-![](https://user-images.githubusercontent.com/94118726/143897237-a742245d-ef65-4779-8586-bbd8e7f5786a.JPG)
+![Block-Diagram ultrasonic sound sensor](https://user-images.githubusercontent.com/94521102/144236204-274005b3-a2ed-415a-9b63-5a13b5c9d084.jpg)
