@@ -12,3 +12,5 @@ Distance Detecting
 distance detected
 ![distance Detected](https://user-images.githubusercontent.com/94521102/144240104-92235550-a321-46a8-b3c2-90849c4f4efc.jpg)
 
+[![CI](https://github.com/milixx21/M2-Embedded_ultrasonic-Sound-Sensor/actions/workflows/main.yml/badge.svg)](https://github.com/milixx21/M2-Embedded_ultrasonic-Sound-Sensor/actions/workflows/main.yml)
+
