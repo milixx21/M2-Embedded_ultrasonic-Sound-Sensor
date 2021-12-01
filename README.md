@@ -14,3 +14,4 @@ distance detected
 
 [![CI](https://github.com/milixx21/M2-Embedded_ultrasonic-Sound-Sensor/actions/workflows/main.yml/badge.svg)](https://github.com/milixx21/M2-Embedded_ultrasonic-Sound-Sensor/actions/workflows/main.yml)
 
+[![.github/workflows/Git Inspector.yml](https://github.com/milixx21/M2-Embedded_ultrasonic-Sound-Sensor/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/milixx21/M2-Embedded_ultrasonic-Sound-Sensor/actions/workflows/Git%20Inspector.yml)
